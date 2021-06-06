@@ -1,0 +1,4 @@
+
+x.add_row(['INST', 'login', ':)', '...', '::1'])
+x.add_row(['INST', 'jxlsdhkjsdcsd', 'fdsfsdfsdfds', '...', '::1'])
+x.add_row(['INST', 'hello', 'world', '...', '::1'])
